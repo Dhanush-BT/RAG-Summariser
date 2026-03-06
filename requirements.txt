@@ -1,0 +1,19 @@
+# Environment & configuration
+python-dotenv>=1.0.0
+
+# PDF handling
+pdfplumber>=0.10.0
+
+# Embedding & NLP
+sentence-transformers>=2.2.2
+transformers>=4.35.0
+torch>=2.1.0
+
+# Vector database
+qdrant-client>=1.6.0
+
+# OpenAI / Cerebras API
+openai>=1.29.0
+
+# Progress bars
+tqdm>=4.66.1
